@@ -1,0 +1,81 @@
+## Training time with a augmented dataset: 5.6 hours
+
+## Training time with original dataset:    3.5 hours
+
+# Performance of base models #
+
+##Model, CNN_1 has achieved a %57.460000000000123 prediction performance.
+##Model, CNN_2 has achieved a %53.459999999999916 prediction performance.
+##Model, CNN_3 has achieved a %54.161113337332554 prediction performance.
+##Model, CNN_4 has achieved a %30.059999999999801 prediction performance.
+
+# Performance of SOTA models without data augmentation #
+
+##Model, mobile_v1    has achieved a 23.359999999999907% prediction accuracy.
+##Model, mobile_v1_1  has achieved a 30.799999999999788% prediction accuracy.
+##Model, mobile_v1_2  has achieved a 26.719999999999832% prediction accuracy.
+##Model, mobile_v1_3  has achieved a 98.319999999999845% prediction accuracy.
+##Model, mobile_v2    has achieved a 34.979999999999829% prediction accuracy.
+##Model, mobile_v2_1  has achieved a 36.719999999999814% prediction accuracy.
+##Model, mobile_v2_2  has achieved a 33.359999999999771% prediction accuracy.
+##Model, mobile_v2_3  has achieved a 95.799999999999737% prediction accuracy.
+##Model, dense_net    has achieved a 9.1600000000000532% prediction accuracy.
+##Model, dense_net_1  has achieved a 13.400000000000079% prediction accuracy.
+##Model, dense_net_2  has achieved a 25.799999999999926% prediction accuracy.
+##Model, dense_net_3  has achieved a 98.319999999999854% prediction accuracy.
+##Model, nas_net      has achieved a 15.800000000000008% prediction accuracy.
+##Model, nas_net_1    has achieved a 20.959999999999939% prediction accuracy.
+##Model, nas_net_2    has achieved a 1.6399999999999977% prediction accuracy.
+##Model, nas_net_3    has achieved a 92.479999999999593% prediction accuracy.
+##Model, eff_net_b0   has achieved a 59.960000000000188% prediction accuracy.
+##Model, eff_net_b0_1 has achieved a 65.820000000000141% prediction accuracy.
+##Model, eff_net_b0_2 has achieved a 55.040000000000081% prediction accuracy.
+##Model, eff_net_b0_3 has achieved a 98.319999999999852% prediction accuracy.
+##Model, eff_net_b1   has achieved a 75.879999999999978% prediction accuracy.
+##Model, eff_net_b1_1 has achieved a 77.459999999999786% prediction accuracy.
+##Model, eff_net_b1_2 has achieved a 78.359999999999770% prediction accuracy.
+##Model, eff_net_b1_3 has achieved a 98.339999999999864% prediction accuracy.
+##Model, eff_net_b2   has achieved a 60.840000000000167% prediction accuracy.
+##Model, eff_net_b2_1 has achieved a 58.360000000000115% prediction accuracy.
+##Model, eff_net_b2_2 has achieved a 62.560000000000134% prediction accuracy.
+##Model, eff_net_b2_3 has achieved a 96.639999999999737% prediction accuracy.
+##Model, eff_net_b3   has achieved a 66.680000000000042% prediction accuracy.
+##Model, eff_net_b3_1 has achieved a 62.560000000000150% prediction accuracy.
+##Model, eff_net_b3_2 has achieved a 59.140000000000136% prediction accuracy.
+##Model, eff_net_b3_3 has achieved a 97.499999999999843% prediction accuracy.
+
+# Performance of SOTA models with data augmentation #
+
+##Model, mobile_v1    has achieved a 15.46000000000002% prediction accuracy.
+##Model, mobile_v1_1  has achieved a 32.75999999999980% prediction accuracy.
+##Model, mobile_v1_2  has achieved a 36.71999999999981% prediction accuracy.
+##Model, mobile_v1_3  has achieved a 96.83999999999979% prediction accuracy.
+##Model, mobile_v2    has achieved a 12.48000000000009% prediction accuracy.
+##Model, mobile_v2_1  has achieved a 18.23999999999996% prediction accuracy.
+##Model, mobile_v2_2  has achieved a 13.92000000000005% prediction accuracy.
+##Model, mobile_v2_3  has achieved a 92.01999999999967% prediction accuracy.
+##Model, dense_net    has achieved a 24.57999999999990% prediction accuracy.
+##Model, dense_net_1  has achieved a 9.780000000000067% prediction accuracy.
+##Model, dense_net_2  has achieved a 28.93999999999981% prediction accuracy.
+##Model, dense_net_3  has achieved a 98.25999999999982% prediction accuracy.
+##Model, nas_net      has achieved a 14.68000000000003% prediction accuracy.
+##Model, nas_net_1    has achieved a 12.78000000000009% prediction accuracy.
+##Model, nas_net_2    has achieved a 17.01999999999999% prediction accuracy.
+##Model, nas_net_3    has achieved a 88.05999999999960% prediction accuracy.
+##Model, eff_net_b0   has achieved a 74.11999999999985% prediction accuracy.
+##Model, eff_net_b0_1 has achieved a 73.53999999999994% prediction accuracy.
+##Model, eff_net_b0_2 has achieved a 72.46000000000006% prediction accuracy.
+##Model, eff_net_b0_3 has achieved a 91.77999999999962% prediction accuracy.
+##Model, eff_net_b1   has achieved a 53.66000000000007% prediction accuracy.
+##Model, eff_net_b1_1 has achieved a 61.22000000000013% prediction accuracy.
+##Model, eff_net_b1_2 has achieved a 49.11999999999992% prediction accuracy.
+##Model, eff_net_b1_3 has achieved a 79.31999999999982% prediction accuracy.
+##Model, eff_net_b2   has achieved a 70.36000000000008% prediction accuracy.
+##Model, eff_net_b2_1 has achieved a 73.55999999999999% prediction accuracy.
+##Model, eff_net_b2_2 has achieved a 76.79999999999981% prediction accuracy.
+##Model, eff_net_b2_3 has achieved a 95.97999999999972% prediction accuracy.
+##Model, eff_net_b3   has achieved a 76.57999999999982% prediction accuracy.
+##Model, eff_net_b3_1 has achieved a 72.97999999999986% prediction accuracy.
+##Model, eff_net_b3_2 has achieved a 73.71999999999991% prediction accuracy.
+##Model, eff_net_b3_3 has achieved a 93.93999999999964% prediction accuracy.
+
